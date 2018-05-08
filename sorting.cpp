@@ -1,4 +1,4 @@
-// Sohail 106117054
+// Mohamed Sohail 106117054
 // Bubble Sort
 #include <stdio.h>
  
